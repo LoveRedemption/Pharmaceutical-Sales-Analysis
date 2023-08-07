@@ -41,7 +41,7 @@ Total revenue for 2018 was $680.8millions
 
 
 
-## RECOMMENDATION:  
+## RECOMMENDATIONS:  
 
 
 •	Identify obstacles and prevent risks.
