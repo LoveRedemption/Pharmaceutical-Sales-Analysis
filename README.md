@@ -1,4 +1,4 @@
-# Pharmaceutical Sales Analysis
+# Sales Analysis
 
 ![](pharma.jpg)
 ---
