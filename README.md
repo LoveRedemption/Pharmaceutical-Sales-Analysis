@@ -1,5 +1,7 @@
 # Pharmaceutical Sales Analysis
 
+#### The dataset was cleaned, analyzed, and visualized using Power BI.
+
 ![](pharma.jpg)
 ---
 ## About
